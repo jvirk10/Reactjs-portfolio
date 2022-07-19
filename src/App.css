@@ -1,0 +1,11 @@
+.portfolio{
+    height: fit-content;
+}
+
+.sections {
+    width: 100%;
+    height: fit-content;
+    position: relative;
+    scroll-snap-type: y mandatory;
+    scrollbar-width: none;
+}

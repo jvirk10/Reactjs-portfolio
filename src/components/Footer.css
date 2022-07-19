@@ -1,0 +1,16 @@
+.footer {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    border-color: black;
+    height: auto;
+}
+
+#git{
+    max-width: fit-content;
+}
+
+#linkedln{
+    max-width: fit-content;
+}

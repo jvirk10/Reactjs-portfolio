@@ -1,0 +1,13 @@
+.nav {
+    background-color: purple;
+    place-content: center;
+}
+
+.nav-item {
+    margin: 20px;
+}
+
+#list{
+    display: flex;
+    justify-content: space-between;
+}

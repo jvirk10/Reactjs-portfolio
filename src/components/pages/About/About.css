@@ -1,0 +1,41 @@
+.about{
+    background-color: transparent;
+}
+
+.hide {
+    display: none;
+}
+
+.hide:hover{
+    display: block;
+    background-color: red;
+}
+
+#coffee{
+    background-image: url(../../../../public/img/Coffee.jpg);
+    background-size: cover;
+    background-position: 80%;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+h2 {
+    color: whitesmoke;
+}
+
+#pictures{
+    display: flex;
+    justify-content: space-around;
+}
+
+#aboutText{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.row {
+    margin-bottom: 20px;
+}
